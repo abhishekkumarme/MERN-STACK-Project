@@ -7,7 +7,8 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "npm run dev",
-    "dev" : "nodemon server.js"
+    "dev" : "nodemon server.js",
+    "build": "npm i"
   },
   "author": "\"Abhishek Kumar\"",
   "license": "ISC",
