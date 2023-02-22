@@ -1,7 +1,7 @@
 
 import { useEffect, useState } from 'react';
 import './App.css'
-const api_base = 'http://localhost:3001';
+const api_base = 'https://mern-stack-todo.onrender.com';
 
 function App() {
 	const [todos, setTodos] = useState([]);
